@@ -1,7 +1,7 @@
 <!-- Banner / Background Image -->
 # Hi, I'm Archana Kumari  
 
-Full Stack Developer | Data Science Enthusiast | AI Explorer  
+Data Science Enthusiast | AI Explorer  
 
 I’m passionate about building scalable applications, analyzing data for insights, and experimenting with AI-driven solutions.  
 Currently pursuing B.Tech in Electrical & Computer Engineering at MIT WPU Pune.  
